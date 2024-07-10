@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\ADMIN\Documents\main\computing\_code\window\c.c++\process_win\src\messagebox.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ADMIN\Documents\main\computing\_code\window\c.c++\process_win\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A382E240-0316-30B9-AC79-FE80EE7A097B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,4 @@
+C:/Users/ADMIN/Documents/main/computing/_code/window/c.c++/process_win/build/CMakeFiles/handle.dir
+C:/Users/ADMIN/Documents/main/computing/_code/window/c.c++/process_win/build/CMakeFiles/messagebox.dir
+C:/Users/ADMIN/Documents/main/computing/_code/window/c.c++/process_win/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/ADMIN/Documents/main/computing/_code/window/c.c++/process_win/build/CMakeFiles/ZERO_CHECK.dir

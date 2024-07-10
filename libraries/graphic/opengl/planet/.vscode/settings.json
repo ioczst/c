@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "*.csv": "csv",
+        ".htaccess": "apacheconf",
+        "Makefile": "c",
+        "iostream": "cpp"
+    }
+}

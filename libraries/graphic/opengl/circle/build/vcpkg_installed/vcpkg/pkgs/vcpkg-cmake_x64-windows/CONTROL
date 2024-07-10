@@ -1,0 +1,5 @@
+Package: vcpkg-cmake
+Version: 2023-05-04
+Architecture: x64-windows
+Multi-Arch: same
+Abi: aa065f83b7a32afd88705413155949cbf2f17293fe4856fa697042bb5858ef75

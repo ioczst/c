@@ -1,0 +1,15 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "*.csv": "csv",
+        ".htaccess": "apacheconf",
+        "Makefile": "c",
+        "main.h": "c"
+    },
+    "cmake.autoSelectActiveFolder": true,
+    "cmake.automaticReconfigure": true,
+    "cmake.buildBeforeRun": true,
+    "cmake.configureOnEdit": false,
+    "cmake.buildTask": false
+}

@@ -1,0 +1,10 @@
+^C:\USERS\ADMIN\DOCUMENTS\MAIN\COMPUTING\_CODE\WINDOW\C.C++\PROCESS_WIN\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/ADMIN/Documents/main/computing/_code/window/c.c++/process_win -BC:/Users/ADMIN/Documents/main/computing/_code/window/c.c++/process_win/build --check-stamp-file C:/Users/ADMIN/Documents/main/computing/_code/window/c.c++/process_win/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
