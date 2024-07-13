@@ -1,2 +1,2 @@
-C:/Users/ADMIN/Documents/main/directories/repositories/c.cpp/libraries/graphic/opengl/circle/build/vcpkg_installed/vcpkg/blds/detect_compiler/x64-windows-rel/CMakeFiles/edit_cache.dir
-C:/Users/ADMIN/Documents/main/directories/repositories/c.cpp/libraries/graphic/opengl/circle/build/vcpkg_installed/vcpkg/blds/detect_compiler/x64-windows-rel/CMakeFiles/rebuild_cache.dir
+C:/Users/ADMIN/Documents/main/directories/repositories/c/libraries/graphic/opengl/circle/build/vcpkg_installed/vcpkg/blds/detect_compiler/x64-windows-rel/CMakeFiles/edit_cache.dir
+C:/Users/ADMIN/Documents/main/directories/repositories/c/libraries/graphic/opengl/circle/build/vcpkg_installed/vcpkg/blds/detect_compiler/x64-windows-rel/CMakeFiles/rebuild_cache.dir

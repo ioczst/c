@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\ADMIN\Documents\main\directories\repositories\c.cpp\libraries\graphic\opengl\circle\src\main.cpp">
+    <ClCompile Include="C:\Users\ADMIN\Documents\main\directories\repositories\c\libraries\graphic\opengl\circle\src\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\ADMIN\Documents\main\directories\repositories\c.cpp\libraries\graphic\opengl\circle\CmakeLists.txt" />
+    <CustomBuild Include="C:\Users\ADMIN\Documents\main\directories\repositories\c\libraries\graphic\opengl\circle\CmakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{1970EC48-80EF-36E6-8BCF-21FBE9277F77}</UniqueIdentifier>
+      <UniqueIdentifier>{53908C1E-D075-3FFC-9761-13BCDDF143A5}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

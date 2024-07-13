@@ -32,7 +32,7 @@ events:
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
       
       The C compiler identification is MSVC, found in:
-        C:/Users/ADMIN/Documents/main/directories/repositories/c.cpp/libraries/graphic/opengl/circle/build/vcpkg_installed/vcpkg/blds/detect_compiler/x64-windows-rel/CMakeFiles/3.27.1/CompilerIdC/CMakeCCompilerId.exe
+        C:/Users/ADMIN/Documents/main/directories/repositories/c/libraries/graphic/opengl/circle/build/vcpkg_installed/vcpkg/blds/detect_compiler/x64-windows-rel/CMakeFiles/3.27.1/CompilerIdC/CMakeCCompilerId.exe
       
   -
     kind: "message-v1"
@@ -44,7 +44,7 @@ events:
     message: |
       Detecting C compiler /showIncludes prefix:
         main.c
-        Note: including file: C:\\Users\\ADMIN\\Documents\\main\\directories\\repositories\\c.cpp\\libraries\\graphic\\opengl\\circle\\build\\vcpkg_installed\\vcpkg\\blds\\detect_compiler\\x64-windows-rel\\CMakeFiles\\ShowIncludes\\foo.h
+        Note: including file: C:\\Users\\ADMIN\\Documents\\main\\directories\\repositories\\c\\libraries\\graphic\\opengl\\circle\\build\\vcpkg_installed\\vcpkg\\blds\\detect_compiler\\x64-windows-rel\\CMakeFiles\\ShowIncludes\\foo.h
         
       Found prefix "Note: including file: "
   -
@@ -70,7 +70,7 @@ events:
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
       
       The CXX compiler identification is MSVC, found in:
-        C:/Users/ADMIN/Documents/main/directories/repositories/c.cpp/libraries/graphic/opengl/circle/build/vcpkg_installed/vcpkg/blds/detect_compiler/x64-windows-rel/CMakeFiles/3.27.1/CompilerIdCXX/CMakeCXXCompilerId.exe
+        C:/Users/ADMIN/Documents/main/directories/repositories/c/libraries/graphic/opengl/circle/build/vcpkg_installed/vcpkg/blds/detect_compiler/x64-windows-rel/CMakeFiles/3.27.1/CompilerIdCXX/CMakeCXXCompilerId.exe
       
   -
     kind: "message-v1"
@@ -82,7 +82,7 @@ events:
     message: |
       Detecting CXX compiler /showIncludes prefix:
         main.c
-        Note: including file: C:\\Users\\ADMIN\\Documents\\main\\directories\\repositories\\c.cpp\\libraries\\graphic\\opengl\\circle\\build\\vcpkg_installed\\vcpkg\\blds\\detect_compiler\\x64-windows-rel\\CMakeFiles\\ShowIncludes\\foo.h
+        Note: including file: C:\\Users\\ADMIN\\Documents\\main\\directories\\repositories\\c\\libraries\\graphic\\opengl\\circle\\build\\vcpkg_installed\\vcpkg\\blds\\detect_compiler\\x64-windows-rel\\CMakeFiles\\ShowIncludes\\foo.h
         
       Found prefix "Note: including file: "
 ...

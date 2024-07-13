@@ -1,6 +1,6 @@
-^C:\USERS\ADMIN\DOCUMENTS\MAIN\DIRECTORIES\REPOSITORIES\C.CPP\LIBRARIES\GRAPHIC\OPENGL\CIRCLE\BUILD\CMAKEFILES\65292BCE4142CA97AF71FBD665EC8F6E\GENERATE.STAMP.RULE
+^C:\USERS\ADMIN\DOCUMENTS\MAIN\DIRECTORIES\REPOSITORIES\C\LIBRARIES\GRAPHIC\OPENGL\CIRCLE\BUILD\CMAKEFILES\8176A5DFCD9BECDAE982E2B7CD831A36\GENERATE.STAMP.RULE
 setlocal
-"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/ADMIN/Documents/main/directories/repositories/c.cpp/libraries/graphic/opengl/circle -BC:/Users/ADMIN/Documents/main/directories/repositories/c.cpp/libraries/graphic/opengl/circle/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/ADMIN/Documents/main/directories/repositories/c.cpp/libraries/graphic/opengl/circle/build/circle.sln
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/ADMIN/Documents/main/directories/repositories/c/libraries/graphic/opengl/circle -BC:/Users/ADMIN/Documents/main/directories/repositories/c/libraries/graphic/opengl/circle/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/ADMIN/Documents/main/directories/repositories/c/libraries/graphic/opengl/circle/build/circle.sln
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/ADMIN/Documents/main/directories/repositories/c.cpp/libraries/graphic/opengl/circle
+# Install script for directory: C:/Users/ADMIN/Documents/main/directories/repositories/c/libraries/graphic/opengl/circle
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/ADMIN/Documents/main/directories/repositories/c.cpp/libraries/graphic/opengl/circle/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/ADMIN/Documents/main/directories/repositories/c/libraries/graphic/opengl/circle/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

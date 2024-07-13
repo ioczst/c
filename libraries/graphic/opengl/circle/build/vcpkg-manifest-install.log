@@ -1,6 +1,21 @@
+Fetching registry information from https://github.com/microsoft/vcpkg (HEAD)...
 Detecting compiler hash for triplet x64-windows...
-All requested packages are currently installed.
-Total install time: 1.1 us
+The following packages will be built and installed:
+    glfw3:x64-windows@3.3.8#2 -- C:\Users\ADMIN\AppData\Local\vcpkg\registries\git-trees\308cd3ebdf6752e9d5eeb2933f33972c784aa8bd
+  * vcpkg-cmake:x64-windows@2023-05-04 -- C:\Users\ADMIN\AppData\Local\vcpkg\registries\git-trees\88a7058fc7fa73a9c4c99cfcae9d79e2abf87a5a
+  * vcpkg-cmake-config:x64-windows@2022-02-06#1 -- C:\Users\ADMIN\AppData\Local\vcpkg\registries\git-trees\8d54cc4f487d51b655abec5f9c9c3f86ca83311f
+Additional packages (*) will be modified to complete this operation.
+Restored 3 package(s) from C:\Users\ADMIN\AppData\Local\vcpkg\archives in 106 ms. Use --debug to see more details.
+Installing 1/3 vcpkg-cmake-config:x64-windows@2022-02-06#1...
+Elapsed time to handle vcpkg-cmake-config:x64-windows: 10.2 ms
+vcpkg-cmake-config:x64-windows package ABI: 13348dcc0117a69fc6a5850ea61722746b056011876e35c6bcca4892b7d098c5
+Installing 2/3 vcpkg-cmake:x64-windows@2023-05-04...
+Elapsed time to handle vcpkg-cmake:x64-windows: 15.6 ms
+vcpkg-cmake:x64-windows package ABI: aa065f83b7a32afd88705413155949cbf2f17293fe4856fa697042bb5858ef75
+Installing 3/3 glfw3:x64-windows@3.3.8#2...
+Elapsed time to handle glfw3:x64-windows: 18.4 ms
+glfw3:x64-windows package ABI: 632c93642f5a7de36340eca8149dfd8559d5d8d47067a7a652366b9ecc61c4a5
+Total install time: 44.8 ms
 glfw3 provides CMake targets:
 
   # this is heuristically generated, and may not be correct
